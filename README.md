@@ -11,7 +11,8 @@ Recruiters often receive hundreds of resumes in different formats and layouts. M
 ---
 ## User Interface
 
-![Screenshot 2025-04-29 145834](https://github.com/user-attachments/assets/454683af-4c2f-45ef-972b-b1cf7797675e)
+![Screenshot 2025-04-29 191131](https://github.com/user-attachments/assets/a90c1abc-5796-4c8c-9a1e-3089b4a60553)
+
 
 
 ## 🚀 Features
