@@ -9,7 +9,7 @@ This project is a Resume Parser built using Python and NLP techniques. It is des
 Recruiters often receive hundreds of resumes in different formats and layouts. Manually reviewing these resumes is time-consuming and prone to human error. This project solves that problem by automating the resume parsing process using Natural Language Processing (NLP). The parser extracts key fields and outputs them in a consistent, machine-readable format (e.g., JSON or CSV).
 
 ---
-
+## User Interface
 
 ![Screenshot 2025-04-29 145834](https://github.com/user-attachments/assets/454683af-4c2f-45ef-972b-b1cf7797675e)
 
