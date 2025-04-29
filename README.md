@@ -10,6 +10,10 @@ Recruiters often receive hundreds of resumes in different formats and layouts. M
 
 ---
 
+
+![Screenshot 2025-04-29 145834](https://github.com/user-attachments/assets/454683af-4c2f-45ef-972b-b1cf7797675e)
+
+
 ## 🚀 Features
 
 - ✅ Extracts candidate details from unstructured text:
